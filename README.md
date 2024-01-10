@@ -61,7 +61,7 @@ TKinter
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just RUN the code!
+Just RUN the code in todoNew.py
 
 
 <!-- USAGE EXAMPLES -->
